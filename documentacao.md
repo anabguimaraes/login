@@ -1,0 +1,1 @@
+Na tela de login eu criei um arquivo login.html no Visual Studio Code e fiz uma caixa de login com os campos de nome e senha usando input. Depois adicionei um botão “Entrar” usando button e um link “Esqueceu a senha?”. Também usei CSS para centralizar e deixar a página mais bonita. Por fim, salvei e publiquei o projeto no GitHub. 
